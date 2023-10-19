@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "excel4node": "^1.8.2",
+    "exceljs": "^4.3.0",
+    "xlsx": "^0.18.5"
+  },
+  "name": "somethingnew",
+  "version": "1.0.0",
+  "main": "readfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
